@@ -1,0 +1,38 @@
+user:
+  role: admin
+  name: admin
+  age: 40
+  position: developer
+  skills: 
+    - 'javascript':
+      level_of_skills: 4
+      description: >
+       my experience includes 
+       more than 7 years with 
+       different javascript libraries
+       and frameworks
+    - 'react':
+      level_of_skills: 4
+      description: >
+       my experience includes 
+       more than 5 years with 
+       react projects
+    - 'nextjs':
+      level_of_skills: 4
+      description: >
+       my experience includes 
+       more than 3 years with 
+       nextjs projects
+  address:
+    country: 'Germany'
+    city: 'Berlin'
+    street: 'Landsberger Allee'
+    number: 15
+    zip: 13509
+  pets: 
+    - name: 'Valerie'
+      breed: 'Labrador'
+      meows: false
+    - name: 'Vasya'
+      breed: 'Siam'
+      meows: true
